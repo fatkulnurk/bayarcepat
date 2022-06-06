@@ -1,0 +1,21 @@
+{
+    "name": "fatkulnurk/bayarcepat",
+    "description": "A PHP Client for Interaction with bayarcepat",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fatkulnurk\\Bayarcepat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fatkulnurk",
+            "email": "fatkulnurk@gmail.com"
+        }
+    ],
+    "require": {
+        "duitkupg/duitku-php": "dev-master",
+        "ext-curl": "*"
+    }
+}
